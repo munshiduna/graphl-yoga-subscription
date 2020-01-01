@@ -1,0 +1,13 @@
+{
+  "name": "graphl-yoga-subscription",
+  "version": "1.0.0",
+  "description": "graphql-yoga subscription example",
+  "main": "server.js",
+  "repository": "https://github.com/munshiduna/graphql-yoga-subscription",
+  "author": "@munshiduna",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
